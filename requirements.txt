@@ -1,0 +1,3 @@
+pyyaml
+requests
+mitmproxy>=7.0.2
