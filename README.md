@@ -58,8 +58,8 @@ interface.clean_local
 
 **mitmproxy-interface** © [LiPP](https://github.com/MrLiPP6274), Released under the [MIT License](./LICENSE) License
 
-> Blog [@漓白白"](https://www.cnblogs.com/m1031478472/)
+> Blog [@llbai](https://www.cnblogs.com/llbai/)
 > 
-> GitHub [@GitHub](https://github.com/MrLiPP6274)
+> GitHub [@GitHub](https://github.com/llbai)
 > 
 > Email llbai_m@163.com
